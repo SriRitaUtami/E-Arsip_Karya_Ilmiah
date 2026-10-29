@@ -1,0 +1,26 @@
+.headerBox {
+  background: linear-gradient(to right, #4f7a48, #20471d);
+  color: white;
+  padding: 5px;
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  height: 48px;
+}
+
+.headerContent {
+  display: flex;
+  align-items: center;
+}
+
+.headerContent p {
+  font-size: 20px; /* Ubah ukuran font menjadi 20px */
+  font-family: serif;
+  font-style: italic;
+  margin-right: 8px;
+}
+
+.headerContent img {
+  width: 32px; /* Ubah ukuran logo menjadi 32px */
+  height: 32px;
+}
