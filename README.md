@@ -166,10 +166,9 @@ GOOGLE_CLIENT_ID=
 GOOGLE_CLIENT_SECRET=
 GOOGLE_REDIRECT_URI=
 GOOGLE_REFRESH_TOKEN=
-GOOGLE_DRIVE_FOLDER_ID=
+GOOGLE_FOLDER_ID=
+NEXT_PUBLIC_API_URL=
 ```
-
-> ⚠️ Jangan upload `.env` ke GitHub. Pastikan sudah ada di `.gitignore`.
 
 ### Setup Google Drive API
 
